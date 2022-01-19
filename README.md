@@ -1,2 +1,2 @@
-# EDITH
-E.D.I.T.H
+# E.D.I.T.H
+*It's Beggin*
