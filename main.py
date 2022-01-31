@@ -1,1 +1,1 @@
-print("It will be a Advanced AI Assistant :)")
+print("It will be an Advanced AI Assistant :)")
